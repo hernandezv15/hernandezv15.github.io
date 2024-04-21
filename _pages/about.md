@@ -1,18 +1,8 @@
 ---
 layout: about
 title: About Me
-author: Johnathan Smith
+author: Victoria Hernandez
 image: assets/images/about/author.jpg
-signature: assets/images/about/signature.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
-
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+Victoria (Tori) Hernandez graduated with a B.S. in Communication Sciences and Disorders with a minor in American Sign Language from The University of Texas at Austin. During her undergraduate studies, she worked full-time as a nanny and was very involved with the Latinx Community Affairs in the Multicultural Engagement Center. She worked in the sign language research lab and this was her first introduction to data science and analysis. She decided to pursue a Masters in Data Science at SMU because of the machine learning and natural language processing. She is currently working at IODrx as an EMR coordinator and Junior Data Analyst.
