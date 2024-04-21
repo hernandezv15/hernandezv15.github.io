@@ -51,11 +51,6 @@ portfolio-home-items:
   - image: "assets/images/portfolio/item-3.png"
     url: "https://github.com/torih1541/Case-Study-1-DDS"
 
-  - image: "assets/images/portfolio/item-4.png"
-    url: "#"
-
-  - image: "assets/images/portfolio/item-5.png"
-    url: "#"
 
 # Portfolio Page
 portfolio-label:
@@ -67,8 +62,15 @@ portfolio-items:
   - image: "assets/images/portfolio/item-1.png"
     url: "https://github.com/hernandezv15/CaseStudy2DDS"
     portfolio-type:
-      - type: "model building"
-
+      - type: "model building", "Exploratory Data Analysis"
+  - image: "assets/images/portfolio/item-2.png"
+    url: "https://github.com/torih1541/House-Prices-Advanced-Regression-Techniques"
+     portfolio-type:
+      - type: "model building", "Exploratory Data Analysis"
+  - image: "assets/images/portfolio/item-3.png"
+    url: "https://github.com/torih1541/Case-Study-1-DDS"
+    portfolio-type:
+      - type: "Exploratory Data Analysis"
 #-------------------------------
 # Contact Section
 
