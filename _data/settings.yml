@@ -53,24 +53,17 @@ portfolio-home-items:
 
 
 # Portfolio Page
-portfolio-label:
-  - { title: "Model Building and Prediction", type: "model building" }
-  - { title: "Machine Learning", type: "Machine learning" }
-  - {title: "Exploratory Data Analysis", type: "Exploratory Data Analysis" }
 
 portfolio-items:
   - image: "assets/images/portfolio/item-1.png"
     url: "https://github.com/hernandezv15/CaseStudy2DDS"
-    portfolio-type:
-      - type: "model building", "Exploratory Data Analysis"
+    
   - image: "assets/images/portfolio/item-2.png"
     url: "https://github.com/torih1541/House-Prices-Advanced-Regression-Techniques"
-     portfolio-type:
-      - type: "model building", "Exploratory Data Analysis"
+ 
   - image: "assets/images/portfolio/item-3.png"
     url: "https://github.com/torih1541/Case-Study-1-DDS"
-    portfolio-type:
-      - type: "Exploratory Data Analysis"
+
 #-------------------------------
 # Contact Section
 
