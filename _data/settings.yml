@@ -24,15 +24,14 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Victoria <br>
-
+  hero-title: Hi! I’m Victoria! :) 
 
 
 #-------------------------------
 # About (Section and Page)
 
 # About Section
-blurb: Currently in Masters of Data Science at SMU
+blurb: Currently a Masters of Data Science student at SMU
 blurb-btn-link: "/about"
 blurb-btn-name: know more
 
@@ -60,16 +59,15 @@ portfolio-home-items:
 
 # Portfolio Page
 portfolio-label:
-  - { title: "UI/UX Design", type: "design" }
-  - { title: "BRANDING", type: "branding" }
-  - { title: "ILLUSTRATION", type: "illustration" }
+  - { title: "Model Building and Prediction", type: "model building" }
+  - { title: "Machine Learning", type: "Machine learning" }
+  - {title: "Exploratory Data Analysis", type: "Exploratory Data Analysis" }
 
 portfolio-items:
   - image: "assets/images/portfolio/item-1.png"
     url: "#"
     portfolio-type:
-      - type: "design"
-      - type: "illustration"
+      - type: "model building"
 
   - image: "assets/images/portfolio/item-2.png"
     url: "#"
@@ -114,61 +112,10 @@ portfolio-items:
     portfolio-type:
       - type: "illustration"
 
-#-------------------------------
-# Testimonials Section
 
-testimonial-items:
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
-#-------------------------------
-# Client Slider Section
-
-client-slider-items:
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
 
 #-------------------------------
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: hernandezv@smu.edu
